@@ -13,7 +13,7 @@ In this paper, we have performed the experiments using
 Logistic Regression, Na¨ıve Bayes, and Random Forest to
 classify the fraud transactions with sampling techniques to
 overcome the imbalanced data problem. From the results
-obtained in Section[v] with metrics like precision, re-call and
+obtained in Section with metrics like precision, re-call and
 f-score Random forest with or without any sampling technique
 has performed better than other algorithms mentioned in this paper. Another important observation from the experiments
 is that sampling techniques have increased the performance
